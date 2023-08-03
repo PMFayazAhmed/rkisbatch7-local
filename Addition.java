@@ -2,10 +2,10 @@ class Addition
 {
 	public static void main(String args[])
 	{
-		int n1,n2,res;
-		n1=10;
-		n2=35;
-		res=n1+n2;
+		int number1,number2,res;
+		number1=10;
+		number2=35;
+		res=number1+number2;
 		System.out.println("Result is : "+res);
 	}
 }
