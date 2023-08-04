@@ -2,7 +2,7 @@ class Addition
 {
 	public static void main(String args[])
 	{
-		int num1,num2,res;
+		int n1,n2,r;
 		num1=10;
 		num2=35;
 		res=num1+num2;
