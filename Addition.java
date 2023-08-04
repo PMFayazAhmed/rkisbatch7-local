@@ -12,5 +12,6 @@ class Addition
 		res=num1*num2;
 		System.out.println("Result is : "+res);
 		System.out.println("This is 1st sop");
+		System.out.println("This 2nd sop");
 	}
 }
