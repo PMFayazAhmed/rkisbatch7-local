@@ -13,5 +13,10 @@ class Addition
 		System.out.println("Result is : "+res);
 		System.out.println("This is 1st sop");
 		System.out.println("This 2nd sop");
+		System.out.println("Commit1");
+		System.out.println("Commit2");
+		System.out.println("Commit3");
+		System.out.println("Commit4");
+		System.out.println("Commit5");
 	}
 }
